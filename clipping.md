@@ -137,6 +137,7 @@ você pode propor uma mudança nesse arquivo diretamente pelo botão "editar". :
 - [Portal Censura Não - Painel Coronavírus](https://www.censuranao.com), por [@hugomn](https://github.com/hugomn)
 - [Dashboard Covid-19 – Gyro UTFPR](https://projetogyro.pythonanywhere.com/)
 - http://nis.org.br/monitoramento-covid-19/
+- [Cobertura da pandemia pela equipe de Research do Banco Inter](https://www.bancointer.com.br/inter-research/?c=relatorios-especiais)
 
 
 ## Publicações Científicas
